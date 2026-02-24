@@ -1,0 +1,17 @@
+# Digital Bank
+
+Sitio web de banca digital para DEVF
+
+## 📋 Descripción
+
+Página web de Digital Bank que presenta los servicios bancarios digitales de la empresa. Incluye secciones de inicio, características y formulario de solicitud habilitado.
+
+## 🚀 Cómo usar
+
+1. Clona este repositorio
+2. Abre `index.html` en tu navegador
+3. Haz clic en "Request Invite" para ir al formulario
+
+## 📱 Próximos pasos
+
+- [ ] Agregar estilos CSS
